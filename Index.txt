@@ -1,0 +1,8 @@
+This is the Index.txt file.
+
+Writing in the vi editor
+I'm 21 years old.
+I love programming.
+My name is Paras.
+
+This will be mine second commit.
