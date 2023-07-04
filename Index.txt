@@ -6,3 +6,5 @@ I love programming.
 My name is Paras.
 
 This will be mine second commit.
+
+Editing this file to check fetch and merge commands.
