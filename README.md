@@ -6,5 +6,3 @@
 [MIT license](LICENSE)
 
 [Visit google](https://www.google.com)
-
-![Android ](android_doodle_4k.jpg)
